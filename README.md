@@ -62,6 +62,5 @@ mPath.cubicTo(100, 500, 300, 100, 600, 500);
 
 ## 那么在上代码之前先看看我们最后实现出来的效果图: ##
 ![](http://i.imgur.com/k4Dtv6C.gif)
-## 项目整体结构: ##
-![](http://i.imgur.com/YgRFcbR.png)
+
 
