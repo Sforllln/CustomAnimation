@@ -65,6 +65,3 @@ mPath.cubicTo(100, 500, 300, 100, 600, 500);
 ## 项目整体结构: ##
 ![](http://i.imgur.com/YgRFcbR.png)
 
-## 记录一下,方便以后使用,完事了额! 如果喜欢我的博客可以直接下面:##
-[http://blog.csdn.net/qq_23179075](http://blog.csdn.net/qq_23179075)
-# 印象丶亮仔 #
